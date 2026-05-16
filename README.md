@@ -1,3 +1,3 @@
 # edelweisscafe.github.io
 
-Gopilot 
+Claude
